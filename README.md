@@ -16,3 +16,10 @@ cd lemaptailintensifies
 npm install
 tail -f /path/to/aggregated/logs/of/all/the/things | maptail -p $port -h $interfaceIp
 ```
+
+
+# wow! Enjoy your map!
+
+Browse to the $port on $interfaceIp and check out that sexy map!
+
+![such wow!](http://memecrunch.com/meme/16IEH/tech-doge/image.png)
